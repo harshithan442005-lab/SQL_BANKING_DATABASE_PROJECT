@@ -20,6 +20,7 @@ CASE WHEN
 Database Schema
 
 The project consists of the following tables:
+
 customers → Stores customer personal details
 accounts → Stores account type and balances
 branches → Bank branch information
